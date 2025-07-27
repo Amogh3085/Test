@@ -1,0 +1,25 @@
+{
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "description": "A beautiful, modern calculator app built with HTML, CSS, and JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000",
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": [
+    "calculator",
+    "javascript",
+    "html",
+    "css",
+    "responsive",
+    "web-app"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "."
+  }
+}
